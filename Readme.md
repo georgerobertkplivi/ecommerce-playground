@@ -2,7 +2,7 @@
 ## This repository contains automated tests for both UI and API using Playwright.
 
 # Installation
-Before running the tests `cd` into `qa-challenge-main` directory where the test reside, make sure to install the dependencies locally by running: `npm install`
+Before running the tests `cd` into `ecommerce-playground` directory where the test reside, make sure to install the dependencies locally by running: `npm install`
 
 ### Resource Location
 Page Objects: `qa-challenge-main/pages`
